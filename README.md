@@ -28,7 +28,7 @@ The real meat behind this application visit the following github site to see the
 
  To make this model more accurate I would load a downloader script to scape imagenet and use more models.  I find the FastAI cleaner to use up alot of memory in the image cleaning process, so my images are not cleaned like they should be.  The FastAI cleaner is good for maybe cleaning models with only a few objects, such as training the difference between a cat or dog.
 
-# Referance
+# Reference
 Howard, Jeremy; Gugger, Sylvain. Deep Learning for Coders with fastai and PyTorch . O'Reilly Media. Kindle Edition. 
 
 
