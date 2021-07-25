@@ -5,7 +5,6 @@
 Installing the Project
 
 ## This project is built using the fastai library to run a deeplearning model that predicts native trees of Kentucky.
-* The trained deepleaning model can be found at the following git hub repository https://github.com/chris-kehl/Kentucky_Tree_classifier.
 * I used Google Colab to create the machine learning models to take advantage of the GPU's and the convience of cloud computing,
 * click the binder logo to experience the application.  Keep in mind that this may be very slow, be patient, it will work.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-kehl/my_ole_ky_tree/HEAD?urlpath=%2Fvoila%2Frender%2Fky_tree_app.ipynb)
